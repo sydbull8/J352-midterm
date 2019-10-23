@@ -14,3 +14,11 @@ h5{
 h6{
   font-style: italic;
 }
+.resize{
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+}
+.italic{
+  font-style: italic;
+}
