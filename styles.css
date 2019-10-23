@@ -50,4 +50,8 @@ figcaption{
 blockquote{
   margin: 0;
 }
+aside p{
+  color: red;
+  font-size: 70px;
+}
 /* This comment is to indicate I know how to add comments to my CSS without the viewer reading it. It will be at the complete end of my css. */
