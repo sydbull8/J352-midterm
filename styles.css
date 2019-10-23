@@ -18,11 +18,16 @@ h5{
 h6{
   font-style: italic;
 }
-.resize{
+#body{
   margin: auto;
-  width: 70%;
-  padding: 30px;
+  width: 50%;
+  padding: 50px;
 }
 .italic{
   font-style: italic;
+}
+img{
+  max-width: 100%;
+  padding: 20px;
+  height: auto;
 }
