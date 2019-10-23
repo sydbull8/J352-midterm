@@ -7,6 +7,7 @@ h1{
 }
 h2{
   font-family: 'Open Sans', sans-serif;
+  color: #4a4848;
 }
 p{
   font-family: 'Helvetica', 'Arial', sans-serif;
@@ -35,3 +36,18 @@ img{
 figcaption{
   font-size: 9px;
 }
+.pquote{
+  float: right;
+  width: 200px;
+  font-weight: bold;
+  padding: 13px;
+  margin: 0 13px 13px 0;
+  color: red;
+  font-size: 26px;
+  line-height: 0.9;
+  font-style: italic;
+}
+blockquote{
+  margin: 0;
+}
+/* This comment is to indicate I know how to add comments to my CSS without the viewer reading it. It will be at the complete end of my css. */
