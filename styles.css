@@ -1,6 +1,10 @@
 h1, h5, h6{
   font-family: 'Roboto Slab', serif;
 }
+h1{
+  text-align: center;
+  color: #3b3a3a;
+}
 h2{
   font-family: 'Open Sans', sans-serif;
 }
@@ -16,8 +20,8 @@ h6{
 }
 .resize{
   margin: auto;
-  width: 100%;
-  padding: 10px;
+  width: 70%;
+  padding: 30px;
 }
 .italic{
   font-style: italic;
