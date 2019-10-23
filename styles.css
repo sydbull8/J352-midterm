@@ -29,6 +29,9 @@ h6{
 }
 img{
   max-width: 100%;
-  padding: 20px;
+  padding: 4px;
   height: auto;
+}
+figcaption{
+  font-size: 9px;
 }
